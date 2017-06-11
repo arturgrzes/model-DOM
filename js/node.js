@@ -2,5 +2,6 @@
 
 var pierwszyDiv = document.getElementById('parFirst');
 
-console.log(pierwszyDiv.children);
+console.log(pierwszyDiv.firstChild);
+console.log(pierwszyDiv.lastChild);
 
