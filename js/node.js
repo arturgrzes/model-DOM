@@ -2,5 +2,5 @@
 
 var pierwszyDiv = document.getElementById('parFirst');
 
-console.log(pierwszyDiv.childNodes);
+console.log(pierwszyDiv.children);
 
